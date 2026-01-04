@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! Here, I document my journey of transform
 **Goal:** Analyze sales trends across 3 countries over 3 years to optimize inventory.
 * **Tools:** Data Integration, Timeline Slicers, Trend Analysis.
 * **Key Insight:** The US market accounts for **79% of total revenue**, with "Liberica" beans being a top seller.
-* 📂 [View Project Files & Dashboard](./Coffee_Sales_Analysis)
+* 📂 [View Project Files & Dashboard](./Coffee%_Sales_Analysis)
 
 ---
 *Created by [ZAIN AL-ABDEEN ALI LATEEF FARHAN] - Open to Data Analyst opportunities.*
