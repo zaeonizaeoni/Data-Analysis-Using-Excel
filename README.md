@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio! Here, I document my journey of transform
 **Goal:** Analyze customer demographics to identify key purchasing drivers for a bike shop.
 * **Tools:** Excel (Nested IFs, Pivot Tables, Slicers).
 * **Key Insight:** Customers with a commute of 0-1 Miles are **2x more likely** to buy a bike than those with 10+ miles.
-* [View Project Folder](./Bike%Sales%Dashboard)
+* [View Project Folder](./Bike Sales Dashboard)
 
 ### 2. 📦 E-Commerce Supply Chain Analysis
 **Goal:** Track order fulfillment efficiency and revenue trends for an online gift store.
